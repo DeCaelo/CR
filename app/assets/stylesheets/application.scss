@@ -1,4 +1,7 @@
+// External libraries
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+// Your CSS
 @import "welcome";
+@import "components/index";
